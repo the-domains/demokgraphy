@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8C8C8'
+    - '#000000'
+    - '#808080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.568782
+  lightness: 0.282072
+  rhythmicContrast: 0.754111
+  saturation: 0.940014
+cta: {}
+layout_spectrum: 0.069078
+name: demokgraphy
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.705592
