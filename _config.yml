@@ -1,4 +1,20 @@
-analytics: {}
+name: demokgraphy
+favicon: null
+layout_spectrum: 0.069078
+typography_spectrum: 0.705592
+title: Untold Images
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C8C8C8'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.568782
   lightness: 0.282072
-  rhythmicContrast: 0.754111
   saturation: 0.940014
-cta: {}
-layout_spectrum: 0.069078
-name: demokgraphy
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.705592
+  rhythmicContrast: 0.754111
+purpose:
+  - name: null
+    item: null
+    url: null
